@@ -86,7 +86,7 @@ const char keyboard[] =
         "[\"4\",\"5\",\"6\",\"Vol+\"],"
         "[\"1\",\"2\",\"3\",\"Vol-\"],"
         "[\"Media\",\"Up\",\"Info\"],"
-        "[\"Left\",\"Ok\",\"Right\"],"
+        "[\"Left\",\"OK\",\"Right\"],"
         "[\"Settings\",\"Down\",\"Back\"],"
         "[\"Exit\"]"
     "]";
